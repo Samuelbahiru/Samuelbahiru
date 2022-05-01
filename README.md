@@ -21,9 +21,9 @@ we start learning html and css then javascript for front end development.
 
 <the html that we learned included on the html repository with all ideas commented with the codes, please review that.>
 <the css that we learned included on the css repository with all ideas commented with the codes, please review that.>
-<the javascript that we learned included on the css repository with all ideas commented with the codes, please review that.>
+<the javascript that we learned included on the javascrpit repository with all ideas commented with the codes, please review that.>
 
-<the python that we learned included on the css repository with all ideas commented with the codes, please review that.>
+<the python that we learned included on the python repository with all ideas commented with the codes, please review that.>
 
 
   
