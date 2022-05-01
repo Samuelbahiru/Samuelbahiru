@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+i'm currently learning on Advanced web Technologies which encompass both the front end and back-ends.
+we start learning html and css then javascript for front end development.
+
+<the html that we learned included on the html repository with all ideas commented with the codes, please review that.>
+<the css that we learned included on the css repository with all ideas commented with the codes, please review that.>
+<the javascript that we learned included on the css repository with all ideas commented with the codes, please review that.>
+
+<the python that we learned included on the css repository with all ideas commented with the codes, please review that.>
+
+
+  
