@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **samuelbahiru93@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Samuelbahiru/sami-portfolio.git](https://github.com/Samuelbahiru/sami-portfolio.git)
+- 📄 Know about my experiences https://sambportfolio.netlify.app/
 
 - ⚡ Fun fact **I like Jokes**
 
